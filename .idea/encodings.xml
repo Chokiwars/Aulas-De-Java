@@ -1,0 +1,9 @@
+package Aula02;
+
+public class Exercicio1 {
+    public static void main(String[] args) {
+        System.out.println(".....DECLARAÇÃO E INICIALIZAÇÃO DE VARIÁVEIS.....");
+        int idade = 18;
+        float altura = 1.58f;
+        double peso = 44.48;
+

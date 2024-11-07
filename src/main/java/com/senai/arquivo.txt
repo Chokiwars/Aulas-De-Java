@@ -1,0 +1,2 @@
+Texto escrito no arquivo com buffer
+Texto escrito no arquivo com buffer com modo append
